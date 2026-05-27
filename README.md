@@ -46,26 +46,6 @@ leandro = {
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### 🎩 Dispositivo Assistivo com Arduino
-> Sensor de proximidade embarcado em um boné capaz de detectar obstáculos e emitir alertas sonoros — com potencial de aplicação em acessibilidade.
-
-- **Tecnologias:** Arduino • Linguagem C • Sensores de Proximidade
-- **Destaque:** Projeto funcional com documentação em vídeo
-- **Área:** Sistemas Embarcados • Acessibilidade
-
----
-
-### 🤖 Robô Seguidor de Linha
-> Carrinho autônomo que detecta uma linha preta no chão e a segue automaticamente usando sensores infravermelhos.
-
-- **Tecnologias:** Arduino • Linguagem C • Sensores Infravermelhos • Controle de Motores
-- **Destaque:** Projeto funcional com documentação em vídeo
-- **Área:** Robótica • Sistemas Embarcados
-
----
-
 ## 🏅 Certificações
 
 | Certificado | Emissor | Ano |
@@ -73,17 +53,6 @@ leandro = {
 | 🔴 Oracle Application Development Foundations | Oracle Academy | 2026 |
 | 🔴 Oracle Database Foundations | Oracle Academy | 2026 |
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Leandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leandrosato&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrosato&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 
 
