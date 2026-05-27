@@ -1,8 +1,8 @@
 <div align="center">
 
-```
-Leandro Sato
-```
+
+**Leandro Sato**
+
 
 **Técnico em IoT • Estudante de ADS • Desenvolvedor em formação**
 
