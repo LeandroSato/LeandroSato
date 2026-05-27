@@ -1,12 +1,7 @@
 <div align="center">
 
 ```
-██╗     ███████╗ █████╗ ███╗   ██╗██████╗ ██████╗  ██████╗
-██║     ██╔════╝██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔═══██╗
-██║     █████╗  ███████║██╔██╗ ██║██║  ██║██████╔╝██║   ██║
-██║     ██╔══╝  ██╔══██║██║╚██╗██║██║  ██║██╔══██╗██║   ██║
-███████╗███████╗██║  ██║██║ ╚████║██████╔╝██║  ██║╚██████╔╝
-╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝
+Leandro Sato
 ```
 
 **Técnico em IoT • Estudante de ADS • Desenvolvedor em formação**
@@ -90,15 +85,5 @@ leandro = {
 
 </div>
 
----
 
 
-<div align="center">
-
-### 💬 Vamos nos conectar!
-
-*"Enquanto a maioria ainda está na teoria, eu já construí dispositivos que funcionam no mundo real."*
-
-⭐ Se algum projeto te interessou, deixa uma estrela!
-
-</div>
