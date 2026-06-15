@@ -19,7 +19,7 @@
 leandro = {
     "nome":       "Leandro Sato",
     "formação":   ["Técnico em IoT - Senac", "ADS - Senac (em andamento)"],
-    "interesses": ["Sistemas Embarcados", "IoT", "Redes", "Banco de Dados"],
+    "interesses": ["Sistemas Embarcados", "IoT", "Banco de Dados"],
     "status":     "Buscando estágio em TI 🚀"
 }
 ```
