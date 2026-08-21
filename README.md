@@ -82,7 +82,7 @@ Robô autônomo que percorre um trajeto delimitado por linha, com leitura de sen
 **Banco de Dados**
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Embarcados e Ferramentas**
 
