@@ -2,8 +2,8 @@
 
 <h1>Leandro Sato</h1>
 
-<p><strong>Programação &amp; Automação de Processos</strong><br>
-Estudante de Análise e Desenvolvimento de Sistemas · Técnico em Internet das Coisas</p>
+<p><strong>Engenheiro de Software Júnior</strong><br>
+Desenvolvimento web e engenharia de software · Estudante de Análise e Desenvolvimento de Sistemas</p>
 
 <a href="https://linkedin.com/in/leandro-sato123">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -11,7 +11,7 @@ Estudante de Análise e Desenvolvimento de Sistemas · Técnico em Internet das 
 <a href="mailto:lecosato05@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-<img src="https://img.shields.io/badge/São_Paulo-SP0D1321?style=for-the-badge" alt="Localização">
+<img src="https://img.shields.io/badge/São_Paulo-SP-0D1321?style=for-the-badge" alt="Localização">
 
 </div>
 
@@ -21,23 +21,27 @@ Estudante de Análise e Desenvolvimento de Sistemas · Técnico em Internet das 
 
 ```python
 leandro = {
+    "cargo":      "Engenheiro de Software Júnior — Aceleraí",
     "formação":   ["Análise e Desenvolvimento de Sistemas — Senac (conclusão em 06/2027)",
                    "Técnico em Internet das Coisas — Senac, Unidade Nações Unidas"],
-    "stack":      ["Java", "Spring Boot", "Angular", "Python", "SQL"],
-    "interesses": ["Programação", "Automação de Processos", "IA"],
-    "buscando":   "primeiro emprego em TI",
+    "stack":      ["Next.js", "TypeScript", "Supabase", "PostgreSQL", "Playwright"],
+    "foco":       ["Full Stack", "DevOps", "QA", "IA"],
 }
 ```
 
-Comecei pela eletrônica — Arduino, sensores, linguagem C — e fui para o desenvolvimento web com Java e Angular. No trabalho atual, cuido da operação de um sistema de gestão (ERP): emissão de NF-e, cadastro de produtos, planilhas com automação de relatórios e suporte técnico de primeiro nível. Foi ali que descobri o gosto por automatizar o que é repetitivo.
+Comecei pela eletrônica — Arduino, sensores, linguagem C — e fui para o desenvolvimento web, primeiro com Java e Angular e hoje com Next.js e TypeScript. Na Aceleraí, construo aplicações web e dashboards de ponta a ponta: interface, dados e autenticação, deploy e testes automatizados.
+
+No dia a dia, o que mais faço é resolver problemas: investigo a causa de um erro antes de corrigir e valido a solução com testes para que ela não volte. Uso assistentes de IA no desenvolvimento, sempre com especificação prévia, revisão do código gerado e testes antes do deploy.
 
 - Certificado **Oracle Academy** — Database Foundations e Application Development Foundations
 - Base em **redes**: endereçamento IP e sub-redes
-- Estudando **Python** e desenvolvimento com **IA**
+- **Python** (curso de 34 horas) e desenvolvimento com **IA**
 
 ---
 
 ## Projetos em destaque
+
+> Os projetos que desenvolvo na Aceleraí são de clientes e ficam em repositórios privados. Abaixo estão projetos que posso mostrar.
 
 ### Galeria Seleta — E-commerce Fullstack
 
@@ -63,33 +67,36 @@ Robô autônomo que percorre um trajeto delimitado por linha, com leitura de sen
 
 ## Tecnologias
 
-**Linguagens**
+**Front-end**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-
-**Frameworks e Bibliotecas**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-**Banco de Dados**
+**Back-end e Dados**
 
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Embarcados e Ferramentas**
+**DevOps e QA**
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+**Embarcados**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
@@ -109,6 +116,3 @@ Robô autônomo que percorre um trajeto delimitado por linha, com leitura de sen
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSato&layout=compact&hide_border=true&title_color=4A8FE8&text_color=8FB4E4&bg_color=0D1321" alt="Linguagens mais usadas" height="165">
 
 </div>
-
-
-
