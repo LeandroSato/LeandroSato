@@ -144,9 +144,6 @@ Simulação de ataques de força bruta (FTP, formulário web e SMB) em ambiente 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LeandroSato&show_icons=true&hide_border=true&title_color=4A8FE8&icon_color=4A8FE8&text_color=C9D7F0&bg_color=0D1321&rank_icon=github" alt="Estatísticas do GitHub" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSato&layout=compact&hide_border=true&title_color=4A8FE8&text_color=C9D7F0&bg_color=0D1321" alt="Linguagens mais usadas" height="165"/>
-
 <img src="https://streak-stats.demolab.com?user=LeandroSato&hide_border=true&background=0D1321&ring=4A8FE8&fire=4A8FE8&currStreakLabel=4A8FE8&sideLabels=C9D7F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8FB4E4&locale=pt_br" alt="Sequência de contribuições" height="165"/>
 
 </div>
