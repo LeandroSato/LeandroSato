@@ -95,7 +95,7 @@ Template de cardápio digital para restaurantes e lojas da Zona Sul de SP. O cli
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflarepages&logoColor=white)
 ![schema.org](https://img.shields.io/badge/SEO_local-schema.org-1B3A6B?style=flat-square)
 
-**→ Repositório privado (template de cliente) · demonstração online em breve**
+**→ [Ver demonstração online](https://sabor-da-vila.pages.dev)** · repositório privado (template de cliente)
 
 ### 🛍️ Galeria Seleta — E-commerce Fullstack
 
