@@ -55,7 +55,7 @@ Comecei pela eletrônica, com Arduino, sensores e linguagem C. Depois fui para o
 
 **Front-end**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,angular,html,css&theme=dark" alt="Next.js, React, Tailwind, Angular, HTML, CSS"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,astro,tailwind,angular,html,css&theme=dark" alt="Next.js, React, Astro, Tailwind, Angular, HTML, CSS"/>
 
 **Back-end e Dados**
 
@@ -84,6 +84,18 @@ Comecei pela eletrônica, com Arduino, sensores e linguagem C. Depois fui para o
 ## 🚀 Projetos em destaque
 
 > 💼 Os projetos que desenvolvo na Aceleraí são de clientes e ficam em repositórios privados. Abaixo estão os que posso mostrar.
+
+### 🍽️ Cardápio Digital para o Comércio de Bairro
+
+Template de cardápio digital para restaurantes e lojas da Zona Sul de SP. O cliente monta o pedido no celular e ele chega pronto no **WhatsApp** do restaurante, sem comissão de aplicativo. Tem prato do dia que muda sozinho conforme o dia e o horário de São Paulo, links para iFood/99Food/Keeta, mapa e horários, e SEO local com schema.org `Restaurant` + `Menu`. Todo o conteúdo vem de **um único arquivo JSON**: trocar de cliente é trocar esse arquivo. Acompanha o site de apresentação do serviço, com pacotes e demonstração.
+
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflarepages&logoColor=white)
+![schema.org](https://img.shields.io/badge/SEO_local-schema.org-1B3A6B?style=flat-square)
+
+**→ Repositório privado (template de cliente) · demonstração online em breve**
 
 ### 🛍️ Galeria Seleta — E-commerce Fullstack
 
