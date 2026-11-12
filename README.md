@@ -29,7 +29,6 @@ const leandro = {
   ],
   stack:     ["Next.js", "React", "TypeScript", "Tailwind", "Supabase", "PostgreSQL"],
   atuacao:   ["Front-end", "Back-end", "DevOps", "QA", "Agentes de IA"],
-  estudando: ["Cibersegurança", "Agentes autônomos de IA"],
   idiomas:   { portugues: "Nativo", ingles: "Intermediário (B2)" },
 };
 ```
