@@ -96,6 +96,22 @@ Template de cardápio digital para restaurantes e lojas da Zona Sul de SP. O cli
 
 **→ [Ver demonstração online](https://sabor-da-vila.pages.dev)** · repositório privado (template de cliente)
 
+### 📅 Organização de Recursos — Sistema de Reservas com Evidência de Qualidade
+
+Sistema web para reservar salas, professores e materiais **sem conflito de horário**, desenvolvido em grupo (3 integrantes) na disciplina de Qualidade de Software do Senac. O foco da avaliação é provar a qualidade: testes, CI, cobertura, rastreabilidade, desempenho e defeitos registrados. A reserva dupla é barrada no próprio **PostgreSQL**, com uma constraint `EXCLUDE` sobre intervalos de tempo. Trabalhamos só por pull request, com revisão cruzada e TDD. Minha parte: **front-end** (telas em Thymeleaf e design system), **testes E2E com Playwright** em tela de 375 px e **teste de carga com JMeter**.
+
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_16-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=flat-square&logo=sonarcloud&logoColor=white)
+
+**→ [Ver repositório](https://github.com/GustAndrade07/organizacao-recursos)** · em andamento
+
 ### 🛍️ Galeria Seleta — E-commerce Fullstack
 
 E-commerce completo de roupas vintage, desenvolvido em grupo (3 integrantes): catálogo, carrinho, checkout, área administrativa e autenticação JWT via Spring Security. API REST em **Java 17 / Spring Boot 3** e front-end em **Angular 19 com SSR**. Repositório documentado com endpoints da API, esquema do banco, fluxo de autenticação e tabela de rotas.
